@@ -1,5 +1,5 @@
 # Replit-Sight-Words-Reading-Practice-App
- kid-friendly web app called "Sight Words Practice" to help my elementary-age child (grades K-5)
+
 Sight Words Practice
 A hands-free reading practice app for elementary-age kids (grades K–5). The child reads a sight word out loud, the browser's built-in speech recognition automatically checks whether she said it correctly, and she gets a score with color-coded feedback at the end of each round — no manual grading, no accounts, no saved data.
 What it does
